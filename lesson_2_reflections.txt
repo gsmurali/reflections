@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 Staging area allows to selectively commit the files. It provides the known consistent version of the code to be stored in isolation before the commit.
 How can you use the staging area to make sure you have one commit per logical change?
 By means of the add command which allows to add selective files to the staging area we can ensire that you have commited changes pertaining to a logical group.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+for experimenting or for concurrent development. isolated development environment
