@@ -6,3 +6,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 By means of the add command which allows to add selective files to the staging area we can ensire that you have commited changes pertaining to a logical group.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 for experimenting or for concurrent development. isolated development environment, context switching
+How do the diagrams help you visualize the branch structure?
+Diagram helps to look at the branches and visually notice what changes would be captured in each of the branch's git logs.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
