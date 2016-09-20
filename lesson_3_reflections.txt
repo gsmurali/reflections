@@ -8,3 +8,5 @@ clone can work either on local or remote
 branches are named commits for isolated developments, context switching
 What is the benefit of having a copy of the last known state of the remote stored locally?
 can quickly merge changes with the remote
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+GitHub faciliates collaboration within the team, things would be difficult otherwise.
