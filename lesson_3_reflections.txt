@@ -3,7 +3,7 @@ A remote repository would be required if my changes are to be shared with other 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 not clear on this. My assumption is that you do not want to update your local environment until all your changes have been complete.
 Describe the differences between forks, clones and branches. When would you use one instead of another?
-forks is a server side glone
+fork is a server side clone
 clone can work either on local or remote
 branches are named commits for isolated developments, context switching
 What is the benefit of having a copy of the last known state of the remote stored locally?
